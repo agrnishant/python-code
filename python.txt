@@ -1,0 +1,7 @@
+python comes on Mac by default with version 2; check on command prompt
+
+$ python
+Python 2.7.10 (default, Feb 22 2019, 21:55:15) 
+[GCC 4.2.1 Compatible Apple LLVM 10.0.1 (clang-1001.0.37.14)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
